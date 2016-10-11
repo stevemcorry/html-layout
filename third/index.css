@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+
+}
+header {
+  background-color: grey;
+  height: 15vh;
+}
+.box {
+  height: 8vh;
+  width: 8vh;
+  background-color: blue;
+  margin: 5px;
+  float: left;
+}
+main{
+  background-color: white;
+  height: 22vh;
+  padding:
+}
+main p {
+  padding: 10px;
+  text-align: center;
+}
+.barz {
+  height: 15vh;
+}
+#one {
+  background-color: blue !important;
+}
+#two {
+  background-color: cyan;
+
+}
+#three {
+  background-color: tan;
+
+}
+#four {
+  background-color: yellow;
+
+}

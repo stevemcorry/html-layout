@@ -1,0 +1,21 @@
+.column {
+  height: 650px;
+  width: 32.99%;
+  display: inline-block;
+  float: left;
+}
+.box {
+
+  background-color: #5cdc5c;
+  height: 75%;
+}
+#lefty {
+  background-color: cyan;
+}
+#middy {
+  background-color: coral;
+}
+img {
+  height: 24.9%;
+  width: 100%
+}
